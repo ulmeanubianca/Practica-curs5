@@ -1,0 +1,8 @@
+1. Create venv and activate it
+2. Create a github repository and clone it locally.
+3. In that local repository folder, Install fastapi, pytest and httpx
+4. Start the server if you want (uvicorn main:app --reload)
+5. Run the tests. ex: pytest test_main.py
+6. Push the new code to Github (git add ., git commit -m "mesaj", git push)
+7. Observe how the GitHub Actions are running
+
